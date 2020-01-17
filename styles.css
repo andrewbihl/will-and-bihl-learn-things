@@ -1,0 +1,25 @@
+.main-content {
+  border-style: solid;
+  border-width: 0 0 3px 3px;
+  border-color: darkslategray;
+  margin: 24px;
+  padding: 16px;
+  width: 70%;
+}
+
+.table-of-contents * {
+  margin: 0px;
+}
+
+.table-of-contents h1 {
+  font-size: 18px;
+  padding-left: 18px;
+}
+
+.table-of-content ul {
+  margin: 0;
+}
+
+.table-of-contents li {
+  list-style: none;
+}
