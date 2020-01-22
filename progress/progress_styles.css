@@ -1,0 +1,16 @@
+.comparison-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.progress-section {
+  border-style: solid;
+  padding: 30px 30px 100px 30px;
+  min-width: max-content;
+  flex-grow: 1;
+}
+
+.progress-table ul {
+  list-style: none;
+}
+
